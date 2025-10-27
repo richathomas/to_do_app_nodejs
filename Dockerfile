@@ -13,4 +13,4 @@ RUN npm install
 EXPOSE 8001
 
 #Run the code
-CMD ["node","app.js"]
+CMD ["npm","start"]
